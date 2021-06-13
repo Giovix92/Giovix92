@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey👋, Giovix92 here.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovix92&show_icons=true&theme=dracula&count_private=true)
 
-<!--
-**Giovix92/Giovix92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Core developer/Project Manager of [RevengeOS](https://www.revengeos.com) and [SHRP](https://skyhawkrecovery.github.io/).
+- &nbsp;📱&nbsp; Devices I own: Xiaomi Mi A1, Redmi Note 7, Xiaomi Mi 9, Galaxy A5 2017, Huawei P10.
+- 💻 Maintainer for [RevengeOS](https://www.revengeos.com), [SHRP](https://skyhawkrecovery.github.io/) and [POSP](https://potatoproject.co/).
+- 🌱 Currently learning: Assembly, Java.
+- ✔️ Known languages: C++, batch/bash, Python, HTML.
+- 👯 If you need help, feel free to pm me! Links below.
+- 🤔 Still wondering why my PC heats up while doing nothing.
+- 💬 Need to do some questions about my projects/other? Feel free to ask!
+- 📫 How to reach me: [Telegram](https://t.me/Giovix92)
+- ⚡ Fun fact: I'm usually productive at night. 😜
