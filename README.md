@@ -10,5 +10,5 @@
 - 👯 If you need help, feel free to pm me! Links below.
 - 🤔 Still wondering why my PC heats up while doing nothing.
 - 💬 Need to do some questions about my projects/other? Feel free to ask!
-- 📫 How to reach me: [Telegram](https://t.me/Giovix92)
+- 📫 How to reach me: [Telegram](https://t.me/Giovix92), [Mail](mailto://ggualtierone@gmail.com), [XDA](https://forum.xda-developers.com/m/giovix92.7023217/)
 - ⚡ Fun fact: I'm usually productive at night. 😜
