@@ -4,8 +4,8 @@
 - 📲 Maintainer of LineageOS for Lavender (Redmi Note 7).
 - 🔭 Past projects: RevengeOS (core dev/infra), SHRP (core dev/infra).
 - 💻 [Hackintosh Italia](https://t.me/HackintoshItalia) staff member. Hackintosh EFI maker too.
-- 🪦 Devices I owned: Xiaomi Mi 9 (dead x4), Galaxy A5 2017 (dead), Xiaomi Mi A1 (kinda dead).
-- 📱 Devices I own: Huawei P10, Redmi Note 7 (x2).
+- 🪦 Devices I owned: Xiaomi Mi 9 (dead x4), Galaxy A5 2017 (dead), Xiaomi Mi A1 (kinda dead), Huawei P10 (kinda dead).
+- 📱 Devices I own: Redmi Note 7 (x2), OnePlus Nord 2 5G.
 - 🌱 Currently learning: how to survive?
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML.
 - 💬 Need some help or wanna ask some questions about my projects/other? Links below.
