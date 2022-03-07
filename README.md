@@ -6,7 +6,7 @@
 - 💻 [Hackintosh Italia](https://t.me/HackintoshItalia) staff member. Hackintosh EFI maker too.
 - 🪦 Devices I owned: Xiaomi Mi 9 (dead x4), Galaxy A5 2017 (dead), Xiaomi Mi A1 (kinda dead), Huawei P10 (kinda dead).
 - 📱 Devices I own: Redmi Note 7 (x2), OnePlus Nord 2 5G.
-- 🌱 Currently learning: how to survive?
+- 🌱 Currently learning: Java, Perl, Assembly (ARM64), SQL, CUDA C/C++, survival techniques for UNI exams, lol.
 - ✔️ Known languages: C++, Scripting (batch/bash), Python, HTML.
 - 💬 Need some help or wanna ask some questions about my projects/other? Links below.
 - 📫 How to reach me: [Telegram](https://t.me/Giovix92), [Mail](mailto://ggualtierone@gmail.com), [XDA](https://forum.xda-developers.com/m/giovix92.7023217/).
